@@ -19,6 +19,13 @@ body{
     border-radius: 50%;
     margin-left: 20px;
 }
+#profile-div{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
 #header{
     display: flex;
     flex-wrap: wrap;
@@ -26,3 +33,4 @@ body{
     justify-content: space-between;
     margin: 50px;
 }
+
