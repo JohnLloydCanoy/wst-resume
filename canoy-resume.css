@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(196, 193, 189);
+}
+#main-div {
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    max-height: fit-content;
+}
+#profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+#header{
+    display: flex;
+    align-items: center;
+}
