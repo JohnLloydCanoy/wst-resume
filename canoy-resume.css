@@ -9,6 +9,10 @@ body{
     margin: 40px auto;
     max-width: 1200px; 
 }
+h2, h3, h4 {
+    color: rgb(31, 79, 130);
+    margin-bottom: 10px;
+}
 
 #profile{
     width: 100px;
