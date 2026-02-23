@@ -1,5 +1,6 @@
 body{
     background-color: rgb(196, 193, 189);
+    font-family: 'Courier New', Courier, monospace
 }
 #main-div {
     align-items: center;
