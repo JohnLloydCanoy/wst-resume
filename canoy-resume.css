@@ -3,13 +3,11 @@ body{
     font-family: 'Courier New', Courier, monospace
 }
 #main-div {
-    align-items: center;
-    padding: 10px;
+    padding: 60px;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
     max-height: fit-content;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 40px auto;
     max-width: 1200px; 
 }
 
@@ -27,10 +25,7 @@ body{
 }
 
 #header{
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
-    margin: 50px;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
